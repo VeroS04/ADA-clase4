@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.calidos {
+     color: chocolate;
+}
+
+.frios {
+    color: chartreuse;
+}
+
+
+.bloque {
+    border: groove;
+}
+
+.negro1 {
+    background-color: #000000;
+    color: white;
+}
+.negro2 {
+    background-color: #4D4D4D;
+    color: white;
+}
+
+.negro3 {
+    background-color: #A6A6A6;
+}
+
+.negro4 {
+    background-color: #B9B9B9;
+}
+
+.negro5 {
+    background-color: #FFFFFF;
+}
+
+.calido1 {
+    background-color: rgb(234, 62, 112);
+}
+
+.calido2 {
+    background-color: rgb(199, 44, 58);
+}
+
+.calido3 {
+    background-color: rgb(243, 114, 82);
+}
+
+
+.calido4 {
+    background-color: rgb(255, 130, 1);
+}
+
+.calido5 {
+    background-color: rgb(255, 211, 92);
+}
+
+.frio1 {
+    background-color: hsl(249, 100%, 60%);
+    color: white;
+    color: white;
+}
+
+.frio2{
+    background-color: hsl(214, 79%, 56%);
+}
+
+.frio3 {
+    background-color: hsl(170, 79%, 56%);
+}
+.frio4 {
+    background-color: hsl(150, 81%, 62%);
+}
+.frio5 {
+    background-color: hsl(120, 69%, 54%);
+}

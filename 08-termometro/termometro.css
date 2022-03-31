@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    background-color: antiquewhite;
+    border: groove;
+    margin-left: 50em;
+    margin-right: 50em;
+    
+}
+
+.temp1{
+    background-color: rgb(206, 41, 20);
+    padding-top: 50px;
+    color: white;
+}
+.temp2{
+    background-color: rgb(207, 137, 71);
+    padding-top: 50px;
+}
+.temp3{
+    background-color: rgb(230, 199, 100);
+    padding-top: 50px;
+}
+.temp4 {
+    background-color: rgb(228, 230, 119);
+    padding-top: 50px;
+}
+.temp5 {
+    background-color: rgb(235, 234, 187);
+    padding-top: 50px;
+}
+.temp6 {
+    background-color: rgb(128, 199, 231);
+    padding-top: 50px;
+}
+.temp7 {
+    background-color: rgb(68, 164, 209);
+    padding-top: 50px;
+}
+.temp8 {
+    background-color: rgb(56, 146, 230);
+    padding-top: 50px;
+}
+.temp9 {
+    background-color: rgb(42, 126, 194);
+    padding-top: 50px;
+}
+.temp10 {
+    background-color: rgb(20, 20, 214);
+    padding-top: 50px;
+    color: white;
+}

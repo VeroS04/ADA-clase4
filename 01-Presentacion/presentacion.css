@@ -1,0 +1,26 @@
+/*body {
+    background-color:#212121;
+    color: #FAFAFA;
+}*/
+
+#header {
+  font-size: 120px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: 800px;
+}
+
+p {
+  font-size: 48px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: 700px;
+}
+
+.programadora {
+  color: blueviolet;
+}
+.mama {
+  color: darkseagreen;
+}
+.enfermera {
+  color: darkcyan;
+}
